@@ -1,0 +1,7 @@
+name = "NPB"
+uuid = "c5166ab8-e967-42c0-bfa1-8e873b9d8372"
+authors = ["ekdodge "]
+version = "0.1.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
